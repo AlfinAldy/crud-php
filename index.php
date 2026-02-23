@@ -8,7 +8,7 @@
     </head>
     <body class="bg-gray-50 text-gray-800">
 
-    <!-- Navbar -->
+    <!-- Navbar hehe -->
     <nav class="bg-blue-400 p-4 shadow">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
         <a href="#" class="text-white text-2xl font-bold">Mulia Mart</a>
@@ -44,3 +44,4 @@
 
     </body>
 </html>
+
